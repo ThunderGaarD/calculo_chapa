@@ -1,6 +1,6 @@
 # calculo_chapa
 
-A new Flutter project.
+Um sistema criado para calcular chapa de aço para um amigo!
 
 ## Getting Started
 
